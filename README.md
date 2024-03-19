@@ -1,2 +1,2 @@
 #helloworld
-We will start working on basics of C.
+We will start working on basics of Javascript.
